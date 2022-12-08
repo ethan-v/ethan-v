@@ -6,31 +6,22 @@ That mean I can get the project done from start to finish with awesome technical
 
 #### Backend
 
-- Python core, FastAPI, Django
-- MySQl, MongoDB
-- Nginx, Apache
-- RabbitMQ
-- Microservices
+- Python core, FastAPI, Django | MySQl, MongoDB | Nginx, Apache | RabbitMQ, Kafka | Microservices
 
 #### Devops
 
-- Docker
-- Vagrant
-- Linux
-- Github Actions
-- Gitlab CI
-- AWS, Google Cloud
+- Docker, Vagrant, Linux, Github Actions, Gitlab CI, AWS, Google Cloud
 
 #### Frontend
 
-- ReactJS
-- NextJS
+- ReactJS | NextJS
 
 ### 🌱 Real Projects are Worth More Than a Thousand Words ...
+   
+🔭 Let's take a look at my Open Source projects
 
-Let's take a look at my Open Source projects 🔭
-
-- **Pyfolio:** A Opensource Portfolio project with minial, lightweight build with Python FastAPI and NextJS (Demo: https://pyfolio-nextjs.vercel.app).
+- **[Pyfolio](https://pyfolio-nextjs.vercel.app):** Open source & minial, lightweight **Portfolio** application which build with Python FastAPI and NextJS.
+- **[Piscuss](https://piscuss-react.vercel.app):** Open source & lightweight **Discussion** application which build with Python Django and ReactJS.
 <!--
 **ethanvu-dev/ethanvu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
